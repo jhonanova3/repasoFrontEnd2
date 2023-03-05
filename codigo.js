@@ -23,3 +23,5 @@ chequeandoAtributoYouTube.hasAttribute("href");
 const obteniendoAtributoWikipedia = document.querySelector("#link_wikipedia");
 obteniendoAtributoWikipedia.getAttribute("href");
 console.log(obteniendoAtributoWikipedia);
+
+// Practicando Atributos dinamicos
